@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <title>Webpage using Html Tag</title>
+    </head>
+    <body bycolor = "cyan">
+        <centre>
+            <h1>Webpage using HTML Tags</h1>
+            <h1>Welcome to Chennai Cit</h1>
+            <h2>Autonomous Institution</h2>
+            <h3>NBA Accredited</h3>
+                <h4>NIRF 101-150 band</h4>
+                <h5>NAAC A+</h5>
+            <strong>
+                <h1><font color="pink">Institute with more industrial connect for skill training</font></h1>
+            </strong>
+            <em>
+                <h1>Institute Providing skill enhancement programmes<h1>
+                </em>
+                <h1>An Image is Inserted Below</h1>
+                <img src ="C:\Users\rjaik\OneDrive\Desktop\CIT\hi.png"><br>
+                <a href="https://www.citchennai.edu.in/">Click Here for college website</a>
+                <p><font size="5"><b>Chennai Institute of technology,the best engineering college in Chennai was established with the objective
+                    providing quality technical education with adequate industrial exposure than any other engoineering colleges in Chennai,caters the needsa of the yoouth with industrial
+                    innovative teaching methods.</br></br></br>
+                    <em>Apart from interactive classsroom scenario, periodic guest lectures by experts from industrial academic background provides thirst to the students
+                        to learn and to prepare for the ready-to-serve industrial requirements with uncompromised professional ethics.</em></br></br></br>
+                        <font color="magneta">CIT has been approved by the AICTE,New Delhi,afflicted to Anna University Chennai.</font></p  </center>
+        
